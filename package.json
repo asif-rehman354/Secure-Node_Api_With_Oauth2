@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-oauth2-server": "^2.4.0",
+    "oauth2-server": "^3.1.1",
+    "pg": "^8.11.1"
+  },
+  "name": "secure-rest_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
